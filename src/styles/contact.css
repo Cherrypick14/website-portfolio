@@ -1,0 +1,19 @@
+.single_info-box{
+    background:#360948;
+    padding:20px;
+    border-radius:5px;
+    border-bottom:1px solid #DCA5F0 ;
+    margin-bottom: 10px;
+
+}
+.single_info-box>p{
+    font-weight: 300;
+    margin-top:10px;
+    font-size:.9rem;
+    margin-bottom: 0;
+
+}
+.single_info-box>h6{
+    font-size:1.1rem;
+
+}
