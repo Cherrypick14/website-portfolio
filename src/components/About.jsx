@@ -1,5 +1,6 @@
 import React,{useState} from 'react'
 import '../styles/about.css'
+import { Link } from 'react-router-dom'
 
 import Education from './Education'
 
@@ -30,22 +31,25 @@ const About = () => {
                      
                      <div className="about_content w-75">
                         <h2 className='mt-2'>I'm Cheryl Petra</h2>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt quibusdam officia iure dolor atque illum maxime officiis molestias saepe quae veritatis quam, ullam non dolore possimus soluta assumenda blanditiis ipsam?
-                        temporibus inventore dolorum aut dignissimos laboriosam voluptas ullam in quisquam nostrum, fugit nobis eveniet ab exercitationem. Fugiat corrupti aspernatur, voluptates vel totam architecto dignissimos voluptas dolore perspiciatis nemo sit!</p>
+                        <p>I like spending my free time reading and exploring dev articles on medium, hashnode and dev.to .
+                            I also like spending some time in nature just to appreciate the existence and beauty of this universe.
+                            I have a thing for hackathons and I like networking with other developers and also learning from them and that
+                            means devfest is something I can't miss for the world! It's a Met Gala for techies.
+                        </p>
                           <div className="social_links">
                            <h6 className='mb-3'>Let's Connect</h6>
                            <span>
-                               <a href="https://twitter.com/owalacheryl" target="_blank">
+                               <a href="#">
                                    <i class="ri-twitter-fill"></i>
                                    </a>
                                </span>
                            <span>
-                               <a href="https://github.com/Cherrypick14" target="_blank">
+                               <a href="#">
                                    <i class="ri-github-fill"></i>
                                    </a>
                                    </span>
                            <span>
-                               <a href="https://www.linkedin.com/in/cheryl-owala-423731191/" target="_blank">
+                               <a href="#">
                                    <i class="ri-linkedin-fill"></i>
                                    </a>
                                    </span>
