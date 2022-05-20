@@ -33,9 +33,11 @@ useEffect(()=>{
                       <h2 className='hero_title mb-4'>I'm 
                         <span ref={textRef}></span>
                         </h2>
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt consequatur fuga quibusdam saepe officia? Obcaecati earum porro sunt corporis molestiae! Itaque dolor tempora sint magni? Nihil beatae incidunt aperiam officia?
+                      <p> 
+                    Hello Technophiles, welcome to my portfolio... I'm a passionate web developer and I have an art and design background.
+                    Born ready and coffee is my favorite beverage. That's how I bring ideas to life! with a short of that
 
-                      </p>
+                    </p>
                       <div className="hero_btns d-flex align-items-center gap-4 mt-4">
                           <button className='btn hire_btn'><a href="#">Hire me</a></button>
                           <button className='btn contact-btn'>Contact</button>
