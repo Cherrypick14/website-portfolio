@@ -35,7 +35,7 @@ useEffect(()=>{
                         </h2>
                       <p> 
                     Hello Technophiles, welcome to my portfolio... I'm a passionate web developer and I have an art and design background.
-                    Born ready and coffee is my favorite beverage. That's how I bring ideas to life! with a short of that
+                    Born ready and coffee is my favorite beverage. That's how I bring ideas to life! with a shot of that
 
                     </p>
                       <div className="hero_btns d-flex align-items-center gap-4 mt-4">
