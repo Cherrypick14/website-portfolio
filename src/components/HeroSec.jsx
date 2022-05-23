@@ -39,7 +39,7 @@ useEffect(()=>{
 
                     </p>
                       <div className="hero_btns d-flex align-items-center gap-4 mt-4">
-                          <button className='btn hire_btn'><a href="#">Hire me</a></button>
+                          <button className='btn hire_btn'><a href="#Home">Hire me</a></button>
                           <button className='btn contact-btn'>Contact</button>
                       </div>
                   </div>
