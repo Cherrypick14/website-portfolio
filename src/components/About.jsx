@@ -39,17 +39,17 @@ const About = () => {
                           <div className="social_links">
                            <h6 className='mb-3'>Let's Connect</h6>
                            <span>
-                               <a href="#">
+                               <a href= "https://twitter.com/owalacheryl">
                                    <i class="ri-twitter-fill"></i>
                                    </a>
                                </span>
                            <span>
-                               <a href="#">
+                               <a href="https://github.com/Cherrypick14">
                                    <i class="ri-github-fill"></i>
                                    </a>
                                    </span>
                            <span>
-                               <a href="#">
+                               <a href="https://www.linkedin.com/in/cheryl-owala-423731191/">
                                    <i class="ri-linkedin-fill"></i>
                                    </a>
                                    </span>
